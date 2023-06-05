@@ -1,0 +1,54 @@
+atqui / ATQVI
+aut / AVT
+autem / AVTEM
+certe
+ceu / CEV
+confestim
+cum / CVM
+dehinc
+deinceps
+demum
+denique
+enim
+ergo
+etiam / eciam
+exinde
+forsan
+forsitan
+fortassis
+ideo
+igitur / IGITVR
+ita
+itaque / ITAQVE
+iterum / ITERVM
+mox
+multotiens / multoties / MVLTOTIENS / MVLTOTIES
+nam
+namque / NAMQVE / nanque / NANQVE
+nempe
+nimirum / NIMIRVM
+puta / PVTA
+quando / QVANDO
+quemadmodum / QVEMADMODVM
+quia / QVIA
+quidem / QVIDEM
+quippe / QVIPPE
+quod / QVOD
+quoniam / QVONIAM
+quoque / QVOQVE
+precipue / praecipue / PRECIPVE / PRAECIPVE
+rursum / RVRSVM
+rursus / RVRSVS
+sane
+scilicet
+sepe / saepe
+sic
+sicut / SICVT
+siquidem / SIQVIDEM
+tamquam / tanquam / TAMQVAM / TANQUAM
+ut / VT
+utique / VTIQVE
+velut / uelut / VELVT
+veluti / ueluti / VELVTI
+vero / uero / VERO
+videlicet / uidelicet / VIDELICET
