@@ -1,12 +1,13 @@
+# This is unused, since we can't include the raw text files for license reasons,
+# but included to document the preprocessing methods.
+
 import logging
 import os
 import string
 
 
 def _preprocess_text(text):
-    # lowercase
     text = text.lower()
-    # remove punctuation
     text = text.translate(str.maketrans("", "", string.punctuation))
 
     return text
@@ -24,7 +25,7 @@ def _slice_text_into_samples(text, sample_size=1000):
 
 def preprocess_and_slice_text_files(
     folder_path: str, sample_size: int = 1000
-) -> dict[str, list]:
+) -> "dict[str, list]":
     """
     Preprocess a set of text samples. Files are lowercased, split into words,
     and then broken into chunks of the selected size (default 1000 words)
@@ -44,7 +45,7 @@ def preprocess_and_slice_text_files(
     """
     processed_texts = {}
     for filename in os.listdir(folder_path):
-        if filename.endswith(".txt"):  # i'm skipping the Mysery files
+        if filename.endswith(".txt"):
             with open(
                 os.path.join(folder_path, filename), "r", encoding="latin-1"
             ) as file:
