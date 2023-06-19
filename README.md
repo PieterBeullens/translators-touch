@@ -14,3 +14,22 @@ The directory [src](src) contains Jupyter notebooks that cover all of our method
 The directory [figures](figures) contains print-quality figures for the stylometric analysis in both raster and vector format.
 
 The directory [data](data) contains various vectorised (function word frequencies) corpus data. Unfortunately, as often happens, we are not currently licensed to redistribute the raw text files for the corpus, but interested parties are invited to contact us to discuss options.
+
+### Citation
+
+A formal paper is under preparation. To cite this code, you may use something like the following:
+
+Beullens, P., Haverals, W., Nagy, B. (2023) The Translators’ Touch: A Computational Stylometric Inquiry into Medieval Greek-Latin Translations. <DOI goes here>
+
+Bibtex:
+
+```
+@software{translators_touch,
+    author = {Beullens, Pieter and Haverals, Wouter and Nagy, Benjamin},
+    title = "{The Translators’ Touch: A Computational Stylometric Inquiry into Medieval Greek-Latin Translations}",
+    year = {2023},
+    month = {06},
+    doi = {tbd},
+    url = {tbd},
+}
+```
