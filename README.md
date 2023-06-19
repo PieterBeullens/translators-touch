@@ -1,4 +1,4 @@
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)  [![DOI](https://zenodo.org/badge/649753456.svg)](https://zenodo.org/badge/latestdoi/649753456)
 
 ## The Translators’ Touch
 #### *A Computational Stylometric Inquiry into Medieval Greek-Latin Translations*
@@ -19,7 +19,7 @@ The directory [data](data) contains various vectorised (function word frequencie
 
 A formal paper is under preparation. To cite this code, you may use something like the following:
 
-Beullens, P., Haverals, W., Nagy, B. (2023) The Translators’ Touch: A Computational Stylometric Inquiry into Medieval Greek-Latin Translations. <DOI goes here>
+Beullens, P., Haverals, W., Nagy, B. (2023) The Translators’ Touch: A Computational Stylometric Inquiry into Medieval Greek-Latin Translations. doi: 10.5281/zenodo.8054897
 
 Bibtex:
 
@@ -29,7 +29,7 @@ Bibtex:
     title = "{The Translators’ Touch: A Computational Stylometric Inquiry into Medieval Greek-Latin Translations}",
     year = {2023},
     month = {06},
-    doi = {tbd},
-    url = {tbd},
+    doi = {10.5281/zenodo.8054897},
+    url = {https://github.com/PieterBeullens/translators-touch},
 }
 ```
